@@ -1,0 +1,59 @@
+Simple Harmonic Oscillator
+    - Setup parameters
+    - Define initial conditions
+    - Initialize arrays to store time, position, and velocity
+    - Initial values (position and velocity)
+    - Verlet integration
+    - Plot
+
+Projectile Motion with Air Resistance
+    - Define constants
+    - Define initial conditions
+    - Initialize arrays to store time, position, and velocity
+    - Initial Values (x, y, vx, and vy)
+    - Euler method to solve motion with drag
+    - Plotting the trajectory
+
+Blackbody Radiation
+    - Constants
+    - Function for Planck's Law
+    - Wavelength range (in meters)
+    - Temperatures
+    - Plot radiation intensity for different temperature
+
+Data Analysis of Experimental Results (with Pandas)
+    - Load experimental data
+    - Define the model function (e.g., quadratic)
+    - Fit the data to a quadratic function
+    - Generate fitted data for plotting
+    - Plot original data and fitted curve
+
+2D Heat Diffusion
+    - Parameters
+    - Initialize temperature grid
+    - Heat diffusion simulation
+    - Plot heatmap
+
+2D Random Walk
+    - Parameters
+    - Function to perform random walk
+    - Simulate random walks
+    - Average displacement
+    - Plot random walk
+
+Fourier Series of a Square Wave
+    - Fourier series approximation of a square wave
+    - Parameters
+    - Plot Fourier approximations
+
+Monte Carlo Simulation of Pi
+    - Parameters
+    - Generate random points in the unit square
+    - Check if the points are inside the quarter circle
+    - Estimate Pi
+    - Print the result
+    - Plot the points
+
+
+
+
